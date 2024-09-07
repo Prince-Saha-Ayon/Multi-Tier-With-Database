@@ -81,11 +81,11 @@
 		<distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://113.212.109.147:8081/repository/maven-releases/</url>
+            <url>http://5.178.97.74:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://113.212.109.147:8081/repository/maven-snapshots/</url>
+            <url>http://5.178.97.74:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
